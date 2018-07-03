@@ -1,5 +1,4 @@
 FROM busybox
-MAINTAINER Chef Software, Inc. <docker@chef.io>
 
 ARG CHANNEL=stable
 ARG VERSION=11.10
